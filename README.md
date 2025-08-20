@@ -1,4 +1,4 @@
-👋 Hi, I'm Syed Shoaib
+**👋 Hi, I'm Syed Shoaib**
 🚀 Backend & AI Developer | MERN | RAG | LLM | LangChain | Kafka | Docker
 I build scalable backend systems and AI-powered applications by combining strong backend engineering with emerging AI/LLM technologies. Passionate about creating high-performance APIs and integrating AI to solve real-world problems.
 🛠 Tech Stack & Skills
